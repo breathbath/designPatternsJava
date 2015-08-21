@@ -1,0 +1,3 @@
+grant codeBase "file:/Users/breathbath/IdeaProjects/DesignPatterns/src" {
+    permission java.security.AllPermission;
+};
